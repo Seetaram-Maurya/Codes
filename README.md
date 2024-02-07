@@ -49,7 +49,7 @@ This folder contains MATLAB files related to preprocessing.
 
 ## Sel_Ext Folder
 
-This folder contains MATLAB files related to feature extraction and selection.
+This folder contains MATLAB files related to feature extraction, selection, and fusion.
 
 ### Files:
 
