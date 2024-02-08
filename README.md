@@ -71,4 +71,4 @@ This folder contains MATLAB files related to visualization of features using tSN
 
 1. `maintSNE.m`: [This is the main program for visualization of features using tSNE]
 
-Note: To run the programs or implementation of a particular components, users need to first download the dataset referenced in the thesis and then organize the paths for program folders, files, and functions accordingly.
+Note: To run the programs or implementation of particular components, users need to first download the dataset from the reference given in the thesis and then organize the paths for program folders, files, and functions accordingly.
