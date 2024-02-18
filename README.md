@@ -1,6 +1,7 @@
 # Description of folders containing codes
 
-This repository contains two folders named CLF, Down_sampl_Seg, HLF, LLF, Pre_proc, Sel_Ext, TD_FD_TFD, and VIS each containing MATLAB files.
+This repository contains folders named CLF, Down_sampl_Seg, HLF, LLF, Pre_proc, Sel_Ext, TD_FD_TFD, and VIS each containing MATLAB files.  
+Matlab version: 2016a
 
 ## CLF Folder
 
